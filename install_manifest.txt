@@ -1,0 +1,1 @@
+/home/adquy/xmr-tools/xmr-stak-cpu/bin/config.txt

@@ -1,0 +1,8 @@
+/home/adquy/xmr-tools/xmr-stak-cpu/CMakeFiles/install.dir
+/home/adquy/xmr-tools/xmr-stak-cpu/CMakeFiles/list_install_components.dir
+/home/adquy/xmr-tools/xmr-stak-cpu/CMakeFiles/rebuild_cache.dir
+/home/adquy/xmr-tools/xmr-stak-cpu/CMakeFiles/edit_cache.dir
+/home/adquy/xmr-tools/xmr-stak-cpu/CMakeFiles/xmr-stak-c.dir
+/home/adquy/xmr-tools/xmr-stak-cpu/CMakeFiles/xmr-stak-cpu.dir
+/home/adquy/xmr-tools/xmr-stak-cpu/CMakeFiles/install/strip.dir
+/home/adquy/xmr-tools/xmr-stak-cpu/CMakeFiles/install/local.dir
